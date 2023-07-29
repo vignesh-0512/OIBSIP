@@ -1,0 +1,90 @@
+a{
+    text-decoration: none;
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 20px;
+    padding-right: 10px;
+    color:white;
+  
+    
+}
+
+ a:hover{
+    color:blue;
+ }
+ a:hover:active{
+    color:white;
+}
+
+
+.nav{
+    float:right;
+    margin-top: -30px;
+    text-align: center;
+
+}
+
+.name{
+    float:left;
+    display: flex;
+    margin-top: -90px;
+    padding-left: 2px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+
+.signup{
+    float:right;
+    margin-top:-35px;
+    border-radius: 3px;
+}
+
+
+body{
+    background-color: black;
+}
+
+img{
+    float: right;
+    padding-top: 120px;
+    padding-left: -200px;
+    margin-right:-350px;
+}
+
+h1{
+    color:white;
+    float: right;
+    margin-right: -420px;
+    margin-bottom: -100px;
+    padding: 60px;
+    
+}
+    
+p{
+    color: white;
+    font-size:40px;
+    padding-bottom: -30px;
+    margin-right: -30px;
+    margin-left: 20px;
+    padding-top:250px;
+}
+
+input{
+    width: 500px;
+    height:38px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height:40px;
+}
+
+.btn{
+    background-color: green;
+    padding-bottom: 10px;
+    border-radius: 3px;
+    padding-left: 2px;
+    padding-right: 2px;
+    text-align: center;
+}
+
+
+
